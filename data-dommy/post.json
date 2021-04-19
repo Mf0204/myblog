@@ -1,0 +1,5 @@
+[
+    {"id" : "1" ,  "title" : "Belajar Next JS eps 1", "body" : "<p>ini adalah artikel next JS Episode 1</p>"},
+    {"id" : "2" ,  "title" : "Belajar Next JS eps 2", "body" : "<p>ini adalah artikel next JS Episode 2</p>"},
+    {"id" : "3" ,  "title" : "Belajar Next JS eps 3", "body" : "<p>ini adalah artikel next JS Episode 3</p>"}
+]
